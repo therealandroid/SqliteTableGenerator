@@ -1,4 +1,7 @@
 # Java-SqlTableGenerator
+##Description
+This library is used to facilitate the creation of SQL scripts Java-based models representing the tables. With the use of annotations on the attributes is easier to organize and versioning tables.
+
 ##Table Example
 
   ```java
