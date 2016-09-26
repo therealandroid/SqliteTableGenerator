@@ -1,7 +1,7 @@
-# Sql Tables generator Based on Java Models
+# Generate Create Table SQL scripts with annotations for Android Applications
 
 ##Description
-This library is used to facilitate the creation of SQL scripts Java-based models representing the tables. With the use of annotations on the attributes is easier to organize and versioning tables.
+This library is used to help the creation of SQL scripts Java-based objects that represent the tables. With the use of annotations on the attributes is easier to organize and versioning tables.
 
 ##Table Example
 
