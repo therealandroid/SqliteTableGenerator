@@ -1,4 +1,4 @@
-# Generate Create Table SQL scripts with annotations for Android Applications
+# Generate Create Table SQL scripts for Android-Sqlite based applications
 
 ##Description
 This library is used to help the creation of SQL scripts Java-based objects that represent the tables. With the use of annotations on the attributes is easier to organize and versioning tables.
